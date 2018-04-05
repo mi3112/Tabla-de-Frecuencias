@@ -8,3 +8,6 @@ Description: This packages allow you print a freacuency table from a data base
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
+Suggests: knitr,
+    rmarkdown
+VignetteBuilder: knitr
